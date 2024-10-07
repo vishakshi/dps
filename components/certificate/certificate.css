@@ -1,0 +1,97 @@
+.continer{
+    height: 750px;
+    width: 1056px;
+    object-fit: cover;
+    margin: auto;
+    background-image: url("../../assets/certificateBg.jpg");
+}
+.logo-left{
+   font-size: 30px;
+    font-weight: 700;
+    height: 60px;
+   padding-top: 50px;
+    margin-left: 280px;
+    color:rgb(43, 43, 112) ;
+}
+.title{
+    font-size: 100px;
+    font-weight: 700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: rgb(43, 43, 112);
+    text-align: center;
+    padding-top: 50px;
+    line-height: 80px;
+}
+.midtext{
+    font-size: 25px;
+    font-weight: 700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(16, 16, 17);
+    text-align: center;
+    padding-top: 10px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+.name{
+  
+  text-align: center;
+    padding-top: 40px;
+    line-height: 10px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.content{
+    padding-top: 40px;
+    font-size: 18px;
+    width: 60%;
+    font-weight: 600;
+    margin: auto;
+    color: #22201d;
+    text-align: center;
+    font-family: 'Nunito', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 25px;
+   
+}
+.footer{
+    padding-top: 1rem;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+   margin-left: 185px;
+}
+.footer .date{
+   display: flex;
+   justify-content:flex-start;
+    align-items:center;
+    flex-direction: column;
+    color: rgb(16, 16, 17);
+    font-size: 15px;
+    text-align: center;
+   line-height: 20px;
+   padding-left: 30px;
+   font-size: 20px;
+   font-weight: 400;
+   padding-top: 30px;
+}
+.footer .sign{
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(16, 16, 17);
+    font-size: 15px;
+   line-height: 20px;
+   padding-right: 40px;
+   font-size: 20px;
+   font-family: Nunito;
+   font-weight: 800;
+}
+.top{
+    display: flex;
+   justify-content: space-between;
+}
+.logo-right{
+   padding-top: 20px;
+}
+.signature-img{
+    border:'2px solid black';
+}
